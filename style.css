@@ -1,3 +1,12 @@
+:root {
+    --cor-primaria: blue;
+}
+
 h1 {
     color: orange;
+}
+
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana,  'Arial Narrow', Arial, serif;
+    color: var(--cor-primaria);
 }
