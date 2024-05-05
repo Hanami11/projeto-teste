@@ -1,3 +1,12 @@
+:root {
+    --cor-primaria: blue;
+}
+
 h1 {
     color: orange;
+}
+
+h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: var(--cor-primaria);
 }
